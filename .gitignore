@@ -1,0 +1,12 @@
+//Vighnesh Tiwari Codes //CR7VIGGY GITHUB PROFILE................AIT PUNE,INDIA
+public class HelloWorld                            //hello world code.
+{
+	public static void main(String[] args)
+	
+	{
+int x;
+                System.in.println("enter any no.",x);
+		System.out.println(" hello world");
+                System.out.println("x");
+	}
+}
